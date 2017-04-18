@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "powop:asm_desk" },
+		"facing=south": { "model": "powop:asm_desk", "y": 90 },
+		"facing=east": { "model": "powop:asm_desk", "y": 0 },
+		"facing=west": { "model": "powop:asm_desk", "y": 180 },
+		"facing=north": { "model": "powop:asm_desk", "y": 270 }
+    }
+}

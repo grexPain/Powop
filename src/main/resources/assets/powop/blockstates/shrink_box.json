@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "powop:shrink_box" },
+        "facing=south": { "model": "powop:shrink_box", "y": 180 },
+        "facing=west":  { "model": "powop:shrink_box", "y": 270 },
+        "facing=east":  { "model": "powop:shrink_box", "y": 90 }
+    }
+}

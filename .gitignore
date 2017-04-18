@@ -45,3 +45,21 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#gradle
+.gradle
+build
+
+# eclipse
+bin
+.settings
+.classpath
+.project
+eclipse
+
+# forgegradle
+run
+
+#
+setupEclipse.bat
+setupWorkspace.bat

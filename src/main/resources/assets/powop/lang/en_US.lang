@@ -1,0 +1,39 @@
+achievement.powop:creeper_grenade=Somewhat Expectable
+achievement.powop:creeper_grenade.desc=Throw a grenade at a Creeper. Be careful! ;)
+
+container.powop:ore_exchanger=OreDictionary Exchanger
+
+tooltip.powop:pieces_left=%1$s pieces left
+tooltip.powop:full_package=The package is full
+tooltip.powop:one_piece_left=Only 1 piece left
+tooltip.powop:flavor_chewed_gum=Ewww... It's covered with drool
+
+item.powop:example_item.name=Example Item
+tile.powop:example_block.name=Example Block
+
+itemGroup.tabExample=Example
+
+tile.powop:purple_ore.name=Purple Ore
+tile.powop:shiny_purple_ore.name=Shiny Purple Ore
+tile.powop:purple_block.name=Block of Purple
+tile.powop:asm_desk.name=Assembly Desk
+tile.powop:ore_exchanger.name=OreDictionary Exchanger
+tile.powop:shrink_box.name=Shrink Box
+tile.powop:shrink_box_shell.name=Shell of the Shrink Box
+tile.powop:shrinker.name=Shrinking Chamber
+tile.powop:shrink_box_portal.name=Exit
+
+item.powop:purple_ingot.name=Purple Ingot
+item.powop:shiny_purple_nugget.name=Shiny Purple Nugget
+item.powop:shiny_purple_ingot.name=Shiny Purple Ingot
+item.powop:shiny_purple_ingot_dense.name=Dense Shiny Purple Ingot
+
+item.powop:chewing_gum.name=Package of Chewing Gum
+item.powop:chewed_gum.name=Chewed Gum
+
+item.powop:impact_grenade.name=Impact Grenade
+
+
+item.powop:purple_sword.name=Purple Sword
+item.powop:purple_pickaxe.name=Purple Pickaxe
+item.powop:purple_battleaxe.name=Purple Battle-Axe

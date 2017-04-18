@@ -1,0 +1,10 @@
+{
+    "parent": "powop:block/shrinker",
+    "display":{
+		"gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, -0.5, 0],
+            "scale":[ 0.3125, 0.3125, 0.3125 ]
+        }
+    }
+}

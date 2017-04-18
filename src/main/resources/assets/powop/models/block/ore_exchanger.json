@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "powop:blocks/ore_exchanger_top",
+        "front": "powop:blocks/ore_exchanger_front",
+        "side": "powop:blocks/ore_exchanger_side"
+    }
+}

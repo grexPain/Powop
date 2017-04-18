@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "powop:ore_exchanger" },
+        "facing=south": { "model": "powop:ore_exchanger", "y": 180 },
+        "facing=west":  { "model": "powop:ore_exchanger", "y": 270 },
+        "facing=east":  { "model": "powop:ore_exchanger", "y": 90 }
+    }
+}

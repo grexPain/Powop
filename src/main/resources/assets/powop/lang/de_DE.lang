@@ -1,0 +1,39 @@
+achievement.powop:creeper_grenade=Das war zu erwarten
+achievement.powop:creeper_grenade.desc=Bewirf einen Creeper mit einer Granate. Sei vorsichtig! ;)
+
+container.powop:ore_exchanger=OreDictionary Tauscher
+
+tooltip.powop:pieces_left=%1$s Stück übrig
+tooltip.powop:full_package=Die Packung ist voll
+tooltip.powop:one_piece_left=Nur noch ein Stück übrig
+tooltip.powop:flavor_chewed_gum=Ihhh... Es ist voll mit sabber
+
+item.powop:example_item.name=Example Item
+tile.powop:example_block.name=Example Block
+
+itemGroup.tabExample=Example
+
+tile.powop:purple_ore.name=Purpleerz
+tile.powop:shiny_purple_ore.name=Glitzerpurpleerz
+tile.powop:purple_block.name=Purpleblock
+tile.powop:asm_desk.name=Fertigungsbank
+tile.powop:ore_exchanger.name=OreDictionary Tauscher
+tile.powop:shrink_box.name=Schrumpfkiste
+tile.powop:shrink_box_shell.name=Hülle der Schrumpfkiste
+tile.powop:shrinker.name=Schrumpfkammer
+tile.powop:shrink_box_portal.name=Ausgang
+
+item.powop:purple_ingot.name=Purplebarren
+item.powop:shiny_purple_nugget.name=Glitzerpurple Nugget
+item.powop:shiny_purple_ingot.name=Glitzerpurplebarren
+item.powop:shiny_purple_ingot_dense.name=Dichter Glitzerpurplebarren
+
+item.powop:chewing_gum.name=Packung Kaugummi
+item.powop:chewed_gum.name=Gekauter Kaugummi
+
+item.powop:impact_grenade.name=Aufschlagzündgranate
+
+
+item.powop:purple_sword.name=Purpleschwert
+item.powop:purple_pickaxe.name=Purplespitzhacke
+item.powop:purple_battleaxe.name=Purpleschlachtaxt
